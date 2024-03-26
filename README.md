@@ -1,0 +1,1 @@
+Exercice qualimétrie - Clean code
