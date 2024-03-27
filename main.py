@@ -1,4 +1,0 @@
-from MyClassSortList import *
-
-SortList()    
-    
